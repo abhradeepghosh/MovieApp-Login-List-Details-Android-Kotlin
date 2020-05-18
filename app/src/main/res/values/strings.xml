@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestMovieApp</string>
+    <string name="movie_item">movie item</string>
+    <string name="retry">Retry</string>
+    <string name="movie_error">An error occurred while loading the movies</string>
+    <string name="about">About</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="Dark">Dark Theme</string>
+    <string name="light">Light Theme</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="error_format_invalid">Format is invalid</string>
+    <string name="error_too_short">Too short</string>
+</resources>
